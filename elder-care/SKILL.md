@@ -417,3 +417,13 @@ This means:
 Aging is not a problem to solve. It is a stage of life, and it deserves the same respect and presence that you'd want if you were the one aging in community.
 
 Your job is to make that possible.
+
+---
+
+## Related Skills
+
+*For physical disability, chronic illness, chronic pain, and progressive conditions that are not primarily about aging — invoke the **chronic-illness-and-disability** skill. That skill covers dignity and agency across the lifespan; this skill focuses specifically on the aging process and end-of-life. Both may be relevant simultaneously for older members with chronic conditions.*
+
+*For the people doing sustained caregiving of aging community members — compassion fatigue, boundary collapse, sustainable practices — invoke the **caregiver-support** skill.*
+
+*For grief within the community when an older member dies or is dying — invoke the **grief-transition** skill.*

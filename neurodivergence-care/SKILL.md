@@ -202,3 +202,13 @@ When building community practices, examine each for ND accessibility:
 ## Integration with Louisoix
 
 When Louisoix activates this skill, the core question is: *whose neurology is this situation accounting for, and whose is it ignoring?* Community structures tend to be built for neurotypical minds and expect everyone else to adapt. The work of this skill is to identify those invisible requirements — where they produce harm, exclusion, or unnecessary struggle — and redesign them as a matter of community equity, not individual accommodation.
+
+---
+
+## Related Skills
+
+*For young neurodivergent children specifically — what dysregulation looks like, how non-parent caregivers can respond consistently, and how to build a shared framework across caregivers — invoke the **trauma-informed-child-care** skill. That skill covers children's nervous systems in community caregiving contexts; this skill covers neurodivergent community members of any age.*
+
+*When a neurodivergent member's behavior is being misread as defiance, manipulation, or bad faith — invoke the **trauma-informed-care** skill to understand the nervous system dynamics that may be operating alongside neurodivergence.*
+
+*For the people sustainably supporting a neurodivergent member with high needs — invoke the **caregiver-support** skill.*

@@ -232,3 +232,13 @@ You cannot force an adult to accept help. What you can do: stay in relationship,
 ## Integration with Louisoix
 
 When Louisoix activates this skill, the core question is: *what does this person need right now, and what can I actually provide?* Mental health first response is the skill of matching response to moment — being present enough to read what's needed, skilled enough to provide it, clear-eyed enough about your own limits to call for more when the situation exceeds your capacity. The goal is not to be the person who fixes it. It's to be the person who stays.
+
+---
+
+## Related Skills
+
+*For stewards and caregivers who have been sustaining others through mental health crises and are now depleted themselves — compassion fatigue, secondary traumatic stress, role boundary collapse — invoke the **caregiver-support** skill.*
+
+*When a mental health crisis is being shaped by trauma history — freeze, dissociation, hypervigilance, retraumatization risk — invoke the **trauma-informed-care** skill to understand the nervous system dynamics before intervening.*
+
+*When someone is in crisis and there is also a genuine physical safety concern — invoke the **safety-planning** skill.*

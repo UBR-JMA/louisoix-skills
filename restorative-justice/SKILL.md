@@ -553,3 +553,13 @@ The goal is not perfect harmony. It's:
 In a permanent relationship — family, intentional community, network of care — this is the difference between a system that fractures and fragments, and one that can heal while staying intact.
 
 This is the work. It's hard, it's slow, and it's one of the most important things you can do to protect your community.
+
+---
+
+## Related Skills
+
+*For preventing conflict before harm occurs — early friction signals, NVC, communication agreements, and de-escalation before the breaking point — invoke the **conflict-prevention** skill. This skill is for after harm has happened; that skill is for before.*
+
+*When a conflict involves trauma responses that are shaping how someone can participate in the process — invoke the **trauma-informed-care** skill to understand what's happening neurologically before designing the restorative process.*
+
+*When the harm involves a specific power dynamic rooted in race, class, or other structural inequality — invoke the **cultural-competency** skill to ensure the process accounts for those dynamics.*
