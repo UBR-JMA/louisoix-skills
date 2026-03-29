@@ -754,3 +754,13 @@ Communities that genuinely value children don't just benefit the children. They 
 In at-risk communities, this is radical. This is the opposite of the message many young people get from the wider world: that you're a problem, that you're not ready, that you don't belong yet. A community that tells young people "you're a full member, your voice matters, we see who you're becoming" is offering something irreplaceable.
 
 This is the foundation. Build it carefully.
+
+---
+
+## Related Skills
+
+*For responding to a specific child who is dysregulated, traumatized, or carrying complex needs — particularly for non-parent caregivers who need a shared response framework — invoke the **trauma-informed-child-care** skill. This skill focuses on the child's experience and development; that skill focuses on how caregivers respond in the moment.*
+
+*For the adults navigating parenting within community — authority boundaries, co-parenting agreements, philosophy differences — invoke the **parenting-in-community** skill. That skill centers the parents and caregivers; this one centers the children.*
+
+*For stewards doing sustained caregiving of children with complex needs who are at risk of depletion — invoke the **caregiver-support** skill.*

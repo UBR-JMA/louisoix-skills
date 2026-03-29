@@ -1,7 +1,7 @@
 ---
 name: lgbtq-affirmation
 description: |
-  Deep, structural LGBTQ+ affirmation for communities of care. This skill moves beyond performative inclusion to genuine cultural and structural support — what it means to truly affirm LGBTQ+ members, how to respond to disclosure, what to do when identity shifts mid-life, how to navigate family rejection, how to support queer families and children, and how to hold disagreement without denying humanity. Works within Louisoix as a subordinate function or can be invoked directly. For elders and stewards of consensus-based communities.
+  Deep, structural LGBTQ+ affirmation for communities of care. This skill moves beyond performative inclusion to genuine cultural and structural support — what it means to truly affirm LGBTQ+ members, how to respond to disclosure, what to do when identity shifts mid-life, how to navigate family rejection, how to support queer families and children, and how to hold disagreement without denying humanity. Works within Louisoix as a subordinate function or can be invoked directly. For stewards of consensus-based communities.
 ---
 
 # LGBTQ+ Affirmation in Community

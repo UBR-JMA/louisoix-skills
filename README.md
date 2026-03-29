@@ -1,6 +1,6 @@
 # Louisoix Skills
 
-A suite of 17 community care advisor skills for Claude, designed for stewards and leaders of communities of care — intentional communities, large extended families, and consensus-governed groups where leadership is relational rather than hierarchical.
+A suite of 23 community care advisor skills for Claude, designed for stewards and leaders of communities of care — intentional communities, large extended families, and consensus-governed groups where leadership is relational rather than hierarchical.
 
 Named after Louisoix Leveilleur from Final Fantasy XIV — the Archon who held everything together at the cost of himself.
 
@@ -8,13 +8,13 @@ Named after Louisoix Leveilleur from Final Fantasy XIV — the Archon who held e
 
 Each subdirectory contains a `SKILL.md` file. To install a skill, zip the directory with a `.skill` extension and use the "Copy to your skills" button in Claude's Cowork mode, or follow your platform's skill installation instructions.
 
-**Install `louisoix` first.** It is the master integrating skill and references all 16 subordinates. The subordinate skills only need to be installed if you want to invoke them explicitly.
+**Install `louisoix` first.** It is the master integrating skill and references all 22 subordinates. The subordinate skills only need to be installed if you want to invoke them explicitly.
 
 ## Architecture
 
 This suite uses a GAIA/subordinate function architecture:
 
-**`louisoix`** is the master integrator. It synthesizes across all 16 specialist frameworks implicitly — you don't need to know which subordinate is relevant. When a situation touches multiple dimensions (as community challenges almost always do), Louisoix draws on what's needed.
+**`louisoix`** is the master integrator. It synthesizes across all 22 specialist frameworks implicitly — you don't need to know which subordinate is relevant. When a situation touches multiple dimensions (as community challenges almost always do), Louisoix draws on what's needed.
 
 Subordinate skills can be explicitly invoked by saying *"Let's use the [skill name] skill"* when you want to go deep on a specific framework.
 
@@ -24,14 +24,14 @@ Subordinate skills can be explicitly invoked by saying *"Let's use the [skill na
 
 | Skill | Description |
 |-------|-------------|
-| `louisoix` | Master integrating advisor — synthesizes all 16 subordinate frameworks for holistic community stewardship guidance |
+| `louisoix` | Master integrating advisor — synthesizes all 22 subordinate frameworks for holistic community stewardship guidance |
 
 ### Specialist Subordinates
 
 | Skill | Domain |
 |-------|--------|
 | `restorative-justice` | Circle practices, harm/accountability/repair, community witnessing |
-| `trauma-informed-care` | Five principles, window of tolerance, trauma responses, vicarious trauma |
+| `trauma-informed-care` | Five principles, window of tolerance, trauma responses, vicarious trauma in stewards |
 | `organizational-stewardship` | Consensus governance, decision legitimacy, institutional memory |
 | `neurodivergence-care` | Autism, ADHD, AuDHD — structural support, late diagnosis, community access |
 | `addiction-recovery` | Harm reduction, enabling vs. supporting, relapse, community safety |
@@ -46,6 +46,12 @@ Subordinate skills can be explicitly invoked by saying *"Let's use the [skill na
 | `safety-planning` | DV dynamics, why leaving is dangerous, stalking, community safety |
 | `somatic-approaches` | Polyvagal theory, co-regulation, nervous system states, grounding |
 | `sex-positivity` | Relationship diversity, NRE, sexual shame, consent culture, kink-aware |
+| `trauma-informed-child-care` | Dysregulation vs. defiance in young children, co-regulation, consistent non-parent caregiver response, generational trauma |
+| `caregiver-support` | Compassion fatigue, burnout, secondary traumatic stress, role boundary collapse, sustainable caregiving |
+| `conflict-prevention` | Early friction signals, NVC, communication agreements, de-escalation before harm |
+| `chronic-illness-and-disability` | Dignity and agency, supporting without smothering, invisible/fluctuating illness, practical community adaptations |
+| `spiritual-worldview-diversity` | Religious/secular diversity, spiritual bypassing, religious trauma, cross-worldview ritual design |
+| `parenting-in-community` | Authority boundaries for non-parents, co-parenting agreements, philosophy differences, when concerns arise |
 
 ## Design Principles
 
@@ -57,15 +63,19 @@ Subordinate skills can be explicitly invoked by saying *"Let's use the [skill na
 
 **Justice-oriented.** These skills are built with the understanding that community members live within systems — labor, housing, immigration, healthcare — that are often hostile to them. Good stewardship includes helping members understand their rights and navigate those systems with dignity.
 
+**Clear separation of concerns.** Skills are designed to own their domain clearly and reference adjacent skills explicitly. The goal is that Louisoix can route correctly and that explicit invocations land in the right place.
+
 ## Evaluation
 
-All 17 skills were evaluated across 3 test cases each (51 total) using a with-skill vs. without-skill methodology. Results:
+The original 16 subordinate skills were evaluated across 3 test cases each (51 total) using a with-skill vs. without-skill methodology. Results:
 
 - Average with-skill pass rate: **99.3%**
 - Average baseline (without skill): **35.1%**
 - Average delta: **+64 percentage points**
 
 The largest deltas were in mental health first response (+94pp), youth development (+100pp), and LGBTQ+ affirmation (+89pp) — domains where uninformed but well-meaning responses can cause genuine harm.
+
+The 6 new skills (trauma-informed-child-care, caregiver-support, conflict-prevention, chronic-illness-and-disability, spiritual-worldview-diversity, parenting-in-community) are pending evaluation. See the `evals/` directory for test cases and results as they are completed.
 
 ## Community Context
 

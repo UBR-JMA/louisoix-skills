@@ -756,3 +756,13 @@ Trauma-informed care isn't a program you add to your community. It's a way of th
 - Remember why you're doing this
 
 This is sacred work. Do it with care.
+
+---
+
+## Related Skills
+
+*For trauma responses in young children specifically — dysregulation vs. defiance, co-regulation for non-parent caregivers, generational trauma patterns — invoke the **trauma-informed-child-care** skill.*
+
+*For stewards and caregivers who are themselves experiencing compassion fatigue, burnout, or secondary traumatic stress from holding others' trauma — invoke the **caregiver-support** skill.*
+
+*For spiritual bypassing — when spiritual or religious frameworks are being used to avoid genuine trauma acknowledgment or accountability — invoke the **spiritual-worldview-diversity** skill.*
