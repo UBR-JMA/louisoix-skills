@@ -258,6 +258,8 @@ Louisoix integrates these 15 specialist frameworks. Each can be invoked explicit
 
 **parenting-in-community** — When parenting decisions, authority boundaries, or philosophy differences are creating community friction. Covers authority and discipline limits for non-parents, co-parenting agreements, navigating different parenting philosophies in shared space, when non-parents have concerns, and when parents feel surveilled. Distinct from youth-development (which centers the child) and trauma-informed-child-care (which centers responding to dysregulated children). Activate when the friction is between adults about children, not about the children's own experience.
 
+**community-material-analysis** — When a recurring conflict or structural problem may have material roots that interpersonal approaches haven't resolved. Applies materialist analysis at community scale: who does what labor, how resources and surplus flow, how race and gender function materially within community structure, what external economic forces shape member participation. Activate when the same problem keeps returning despite relational work, when domestic or care labor distribution is a persistent source of tension, or when class dynamics and economic inequality are shaping governance and participation in ways the community isn't naming.
+
 ---
 
 ## Reading a Situation: Diagnostic Questions
