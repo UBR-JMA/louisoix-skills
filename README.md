@@ -1,6 +1,6 @@
 # Louisoix Skills
 
-A suite of 23 community care advisor skills for Claude, designed for stewards and leaders of communities of care — intentional communities, large extended families, and consensus-governed groups where leadership is relational rather than hierarchical.
+A suite of 28 community care advisor skills for Claude, designed for stewards and leaders of communities of care — intentional communities, large extended families, and consensus-governed groups where leadership is relational rather than hierarchical.
 
 Named after Louisoix Leveilleur from Final Fantasy XIV — the Archon who held everything together at the cost of himself.
 
@@ -8,13 +8,13 @@ Named after Louisoix Leveilleur from Final Fantasy XIV — the Archon who held e
 
 Each subdirectory contains a `SKILL.md` file. To install a skill, zip the directory with a `.skill` extension and use the "Copy to your skills" button in Claude's Cowork mode, or follow your platform's skill installation instructions.
 
-**Install `louisoix` first.** It is the master integrating skill and references all 22 subordinates. The subordinate skills only need to be installed if you want to invoke them explicitly.
+**Install `louisoix` first.** It is the master integrating skill and references all 27 subordinates. The subordinate skills only need to be installed if you want to invoke them explicitly.
 
 ## Architecture
 
 This suite uses a GAIA/subordinate function architecture:
 
-**`louisoix`** is the master integrator. It synthesizes across all 22 specialist frameworks implicitly — you don't need to know which subordinate is relevant. When a situation touches multiple dimensions (as community challenges almost always do), Louisoix draws on what's needed.
+**`louisoix`** is the master integrator. It synthesizes across all 27 specialist frameworks implicitly — you don't need to know which subordinate is relevant. When a situation touches multiple dimensions (as community challenges almost always do), Louisoix draws on what's needed.
 
 Subordinate skills can be explicitly invoked by saying *"Let's use the [skill name] skill"* when you want to go deep on a specific framework.
 
@@ -24,7 +24,7 @@ Subordinate skills can be explicitly invoked by saying *"Let's use the [skill na
 
 | Skill | Description |
 |-------|-------------|
-| `louisoix` | Master integrating advisor — synthesizes all 22 subordinate frameworks for holistic community stewardship guidance |
+| `louisoix` | Master integrating advisor — synthesizes all 27 subordinate frameworks for holistic community stewardship guidance |
 
 ### Specialist Subordinates
 
@@ -52,6 +52,11 @@ Subordinate skills can be explicitly invoked by saying *"Let's use the [skill na
 | `chronic-illness-and-disability` | Dignity and agency, supporting without smothering, invisible/fluctuating illness, practical community adaptations |
 | `spiritual-worldview-diversity` | Religious/secular diversity, spiritual bypassing, religious trauma, cross-worldview ritual design |
 | `parenting-in-community` | Authority boundaries for non-parents, co-parenting agreements, philosophy differences, when concerns arise |
+| `community-material-analysis` | Materialist structural analysis of recurring conflicts — labor distribution, resource flows, race and gender as material, external economic forces |
+| `dying-and-death-accompaniment` | Active dying accompaniment, vigil rotation, home death logistics, after-death body care, protecting agency, anticipatory grief, caregiver exhaustion |
+| `political-and-movement-dynamics` | Explicitly political/activist communities — ideological disagreement, state repression, security culture, informant dynamics, sectarian drift, activist burnout |
+| `community-dissolution` | Existential crisis diagnosis, founding schism, major exodus, shared property and mortgage specifics, the dissolution decision, community grief |
+| `land-and-ecological-stewardship` | Land tenure, Indigenous land and engagement, food production as labor, ecological governance, rewilding, animals, place loss, environmental justice |
 
 ## Design Principles
 
