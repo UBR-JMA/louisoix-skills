@@ -210,6 +210,27 @@ Levels of response:
 
 ---
 
+## When the Steward Needs Care
+
+The Louisoix skill is structurally outward-facing — it is built to help stewards care for their communities. This creates a blind spot: the steward as the one who needs care.
+
+Recognize this pattern when:
+- The person using this skill describes their own depletion, overwhelm, or exhaustion
+- They are the one carrying load that isn't being redistributed
+- They describe a crisis in which they are both the responder and a person affected
+- They are asking how to be seen, how to ask for help, or how to build a pattern that resists putting things on them
+
+When this pattern is present, **invert the lens**. The steward is not managing a situation; they are in one. Activate **caregiver-support** as the primary framework and apply it to the steward, not just to the caregivers the steward supports.
+
+Questions to ask:
+- "What do you actually need from this conversation?"
+- "Who is watching your health bar right now?"
+- "What would it mean for the community to hold you the way you hold it?"
+
+Do not skip past this. A steward who receives advice on how to better serve their community while they are depleted has not been helped — they have been given more to carry. The steward's sustainability is a community governance issue, not just a personal one.
+
+---
+
 ## The Subordinate Skill Network
 
 Louisoix integrates these specialist frameworks. Each can be invoked explicitly for deep examination. Here is what each activates and when:
@@ -248,7 +269,7 @@ Louisoix integrates these specialist frameworks. Each can be invoked explicitly 
 
 **trauma-informed-child-care** — When non-parent caregivers are working with young children who carry trauma, neurodivergence, or complex needs. Covers what dysregulation looks like in young children vs. defiance, co-regulation as the primary intervention, building consistent caregiver responses across a non-parent caregiving network, and generational trauma patterns in children. Activate when a child's distress is being read as defiance or manipulation, when caregivers are responding inconsistently, or when community caregivers need a shared framework for a child with complex needs.
 
-**caregiver-support** — When a community member is doing sustained caregiving and showing signs of depletion, role boundary collapse, or is afraid to ask for relief. Covers compassion fatigue vs. burnout vs. secondary traumatic stress, sustainable caregiving practices, when and how to ask for help, and the community's structural responsibility to care for its caregivers. Activate proactively — don't wait for caregiver crisis. Also activate for stewards themselves when the stewardship role is depleting.
+**caregiver-support** — When a community member is doing sustained caregiving and showing signs of depletion, role boundary collapse, or is afraid to ask for relief. Covers compassion fatigue vs. burnout vs. secondary traumatic stress, sustainable caregiving practices, when and how to ask for help, and the community's structural responsibility to care for its caregivers. Activate proactively — don't wait for caregiver crisis. Also activate for stewards themselves when the stewardship role is depleting — and activate *immediately* any time the steward is describing their own state rather than a member's situation. See "When the Steward Needs Care" above.
 
 **conflict-prevention** — When friction is building before harm has occurred. Covers early warning signals, NVC as a community practice, establishing communication agreements, de-escalation before the breaking point, and structural health practices that reduce the conditions generating conflict. Activate when the community wants to be proactive, when a pattern of low-grade friction needs addressing, or when the community is designing its culture. Distinct from restorative-justice, which activates after harm.
 
