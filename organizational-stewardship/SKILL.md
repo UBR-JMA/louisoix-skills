@@ -688,6 +688,46 @@ In a governance crisis, some people will leave. That's hard, and it's okay.
 
 ---
 
+## 11. SHARED FINANCIAL ACCOUNT GOVERNANCE
+
+Community bank accounts are governance infrastructure, not just financial tools. Access policies set in a spirit of trust become structural vulnerabilities when margins disappear — and the failure mode is usually public: a bounced rent payment, a missed bill, a crisis that didn't have to be a crisis.
+
+### The Informal Access Problem
+
+Communities often start with open, trust-based account access: members can withdraw for shared expenses, emergencies, or miscellaneous needs without a formal approval process. This works when there is margin. When there isn't, informal access drains the account invisibly until something bounces.
+
+This is not a character failure in the people who spent the money. It is a policy gap that accumulated risk without signaling it. The members who drew on the account weren't stealing — they were operating inside a system that had no guardrails. The system failed, not the people.
+
+### Restricting Access Without Creating Conflict
+
+When informal access needs to stop:
+
+1. **Name the structural problem, not the behavior.** "Our account structure doesn't have enough checks to protect the margin we need" rather than "people have been taking money." The first invites a governance fix; the second invites defensiveness.
+
+2. **Be concrete.** "Going forward, any withdrawal over $X needs to be approved by [role/process]" is actionable. "We need to be more careful" is not.
+
+3. **Name what stays the same.** What legitimate expenses have been flowing through informal access? Make clear those can still happen — through a defined process.
+
+4. **Don't make it punitive.** If the community didn't communicate that margin was gone, the communication failed before the spending did. Name that.
+
+5. **Build the structure together, then implement it.** When possible, bring the proposal and get buy-in before locking the account. This produces governance, not just restriction.
+
+### The Community Address
+
+Keep it to two things: what happened (factually) and what changes (specifically). Dwelling on who did what turns a structural conversation into an accountability one before you've built the structure.
+
+Draft frame: *"Our account ran to zero before rent went out. That tells us the current system doesn't have enough structure to protect our shared commitments. Here's what we're changing — and here's how the things people were using the account for can still happen."*
+
+### After the Fix
+
+Informal access patterns fill real needs. If you restrict access without addressing the underlying need, the pattern returns. Ask: what were people actually using informal access for? Can those needs be met through a clearer, lightweight process — a petty cash arrangement, a designated discretionary line in the budget, a simple approval chain?
+
+The goal is structure that protects shared commitments without making every small expense require a committee.
+
+*For situations where the community's financial vulnerability or a member's economic precarity is the deeper issue — invoke the economic-precarity skill.*
+
+---
+
 ## How to Use This Skill
 
 ### Explicit Invocation
